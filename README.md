@@ -7,6 +7,7 @@ Start coding a react application
 ## How to start coding?
 
 - Install the packages with `$ npm install`.
+- Install fontawesome: `$ npm install @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons`.
 - Run the webpack server with `$ npm run start`
 
 You can update the `styles/index.css` or `js/index.js` depending on your needs.
